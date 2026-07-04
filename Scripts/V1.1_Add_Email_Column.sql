@@ -1,0 +1,2 @@
+ALTER TABLE Employee
+ADD PhoneNo VARCHAR(15);
